@@ -1,8 +1,22 @@
-# React + Vite
+Installation:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Backend
+Clone the repository:
+git clone https://github.com/yourusername/stocks-api.git
+cd stocks-api
 
-Currently, two official plugins are available:
+Install dependencies:
+npm install or npm i
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Start the server:
+nodemon index.js or node index.js
+
+Frontend
+Navigate to the frontend directory:
+cd frontend
+
+Install dependencies:
+npm install
+
+Start the React app:
+npm run dev
